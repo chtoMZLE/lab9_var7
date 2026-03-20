@@ -1,5 +1,5 @@
 # Lab9: Go/Rust/PyO3 + PyPI CI/CD
-
+Вариант 7
 ## Названия задач (Task 1–5)
 1. `task1_go_async_processor/` — средняя сложность №2: Go async request processor (goroutine worker)
 2. `task2_go_tcp_server/` — средняя сложность №5: Go TCP server + Python client
