@@ -1,11 +1,11 @@
 # Lab9: Go/Rust/PyO3 + PyPI CI/CD
 
 ## Названия задач (Task 1–5)
-1. `task1_go_async_processor/` — Go async request processor (goroutine worker)
-2. `task2_go_tcp_server/` — Go TCP server + Python client
-3. `task3_rust_pyo3_module/` — PyO3 Python module in Rust (`#[pymodule]` + `add`)
-4. `task4_ci_cd_pypi/` — CI/CD build & publish PyO3 module to PyPI
-5. `task5_go_compute_service/` — Go heavy-compute microservice invoked from Python (primes)
+1. `task1_go_async_processor/` — средняя сложность №2: Go async request processor (goroutine worker)
+2. `task2_go_tcp_server/` — средняя сложность №5: Go TCP server + Python client
+3. `task3_rust_pyo3_module/` — средняя сложность №7: PyO3 Python module in Rust (`#[pymodule]` + `add`)
+4. `task4_ci_cd_pypi/` — повышенная сложность №3: CI/CD build & publish PyO3 module to PyPI
+5. `task5_go_compute_service/` — повышенная сложность №1: Go heavy-compute microservice invoked from Python (primes)
 
 ## Структура репозитория
 - `work_plan` — исходный план лабораторной
